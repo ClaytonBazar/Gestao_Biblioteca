@@ -12,6 +12,7 @@
         <input type="search" name="" id="">
         <nav>
             <ul>
+                <li><a href="">HOME</a></li>
                 <li><a href="">CLIENTE</a></li>
                 <li><a href="">AJUDA</a></li>
                 <li><a href="">COMPRAS</a></li>
